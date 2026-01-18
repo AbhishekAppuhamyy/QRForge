@@ -89,7 +89,7 @@ export default function Home() {
           <div className="space-y-6">
             <div>
               <label className="block text-sm font-semibold text-gray-700 mb-2">
-                Enter URL
+                Enter URLgggggg
               </label>
               <div className="relative">
                 <input
