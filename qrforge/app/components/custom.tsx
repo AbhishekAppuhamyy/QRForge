@@ -276,7 +276,7 @@ export default function Home() {
               </li>
               <li className="flex items-center gap-3">
                 <div className="w-2 h-2 bg-white rounded-full"></div>
-                <span>High-resolution downloads</span>
+                <span>High-resolution downloads are able</span>
               </li>
               <li className="flex items-center gap-3">
                 <div className="w-2 h-2 bg-white rounded-full"></div>
