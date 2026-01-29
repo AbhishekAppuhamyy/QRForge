@@ -23,7 +23,7 @@ export default function Home() {
     setError("");
 
     try {
-      // Add https:// if no protocol is specifiedd
+      // Add https:// if no protocol is specified
       const formattedLink = link.startsWith('http') ? link : `https://${link}`;
       
       const qr = await QRCode.toDataURL(formattedLink, {
