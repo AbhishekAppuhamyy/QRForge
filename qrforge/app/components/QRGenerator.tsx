@@ -72,7 +72,7 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-gradient-to-br from-gray-50 to-gray-100 flex items-center justify-center p-4">
       <div className="max-w-6xl w-full grid md:grid-cols-2 gap-8 items-center">
-        {/* Left Panel - Input & Controls */}
+        {/* Left Panel - Input & Controlsss */}
         <div className="bg-white rounded-2xl shadow-xl p-8 md:p-10">
           <div className="flex items-center gap-3 mb-8">
             <div className="bg-black p-2 rounded-xl">
